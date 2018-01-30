@@ -2,7 +2,7 @@
 M. Tsang, D. Cheng, Y. Liu. Detecting Statistical Interactions from Neural Network Weights, ICLR 2018,
  [to appear](https://openreview.net/pdf?id=ByOfBggRZ).
 
-----
+
 ## Usage
 
 
