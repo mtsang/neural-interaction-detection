@@ -7,6 +7,6 @@
 
 
 - Run demo at "neural\_interaction\_detector\_demo.ipynb"
-- requires python 3.0+, tested with tensorflow 1.4, see notebook for other dependencies
+- requires python 3.0+, tested with tensorflow 1.2, scikit-learn 0.19, numpy 1.13.1
 
 
