@@ -18,7 +18,7 @@ If you use NID in your research, please cite the following:
 @article{
   tsang2018detecting,
   title={Detecting Statistical Interactions from Neural Network Weights},
-  author={Michael Tsang, Dehua Cheng, Yan Liu},
+  author={Tsang, Michael and Cheng, Dehua and Liu, Yan},
   journal={International Conference on Learning Representations},
   year={2018},
   url={https://openreview.net/pdf?id=ByOfBggRZ},
