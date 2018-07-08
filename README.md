@@ -14,14 +14,11 @@
 If you use NID in your research, please cite the following:
 
 ```
-@article{
-  tsang2018detecting,
-  title={Detecting Statistical Interactions from Neural Network Weights},
+@article{tsang2017detecting,
+  title={Detecting statistical interactions from neural network weights},
   author={Tsang, Michael and Cheng, Dehua and Liu, Yan},
-  journal={International Conference on Learning Representations},
-  year={2018},
-  url={https://openreview.net/pdf?id=ByOfBggRZ},
-  note={accepted as poster},
+  journal={arXiv preprint arXiv:1705.04977},
+  year={2017}
 }
 ```
 
