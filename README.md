@@ -1,4 +1,9 @@
 # Neural Interaction Detection (NID)
+
+
+![Algorithm](figures/algorithm.gif)
+
+
 [M. Tsang](http://www-scf.usc.edu/~tsangm/), [D. Cheng](http://www-scf.usc.edu/~dehuache/), [Y. Liu](http://www-bcf.usc.edu/~liu32/). Detecting Statistical Interactions from Neural Network Weights, ICLR 2018. [[pdf]](https://openreview.net/pdf?id=ByOfBggRZ)
 
 
