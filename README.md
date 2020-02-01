@@ -5,7 +5,7 @@
 ## Usage
 
 
-- Run demo at "neural\_interaction\_detector\_demo.ipynb"
+- Run demo at "demo.ipynb"
 	* the demo trains a multilayer perceptron (MLP) on synthetic data containing interactions with nonlinearities. at the end of the notebook the interactions are found by decoding the learned weights 
 - requires python 3.6+ and jupyter notebook, tested with pytorch 1.3.1, scikit-learn 0.21.3, numpy 1.17.1
 
