@@ -16,7 +16,7 @@
 
 
 ## Reproducibility
-If you need to reproduce results, please contact me so I can share the original code used for experiments (in Tensorflow).
+If you need to reproduce results, please contact me so I can share the original code used for experiments (in Tensorflow). Email: tsangm at usc dot edu
 
 
 ## Reference
