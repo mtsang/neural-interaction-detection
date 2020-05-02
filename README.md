@@ -15,6 +15,10 @@
 - requires python 3.6+ and jupyter notebook, tested with pytorch 1.3.1, scikit-learn 0.21.3, numpy 1.17.1
 
 
+## Reproducibility
+If you need to reproduce results, please contact me so I can share the original code used for experiments (in Tensorflow).
+
+
 ## Reference
 If you use NID in your research, please cite the following:
 
